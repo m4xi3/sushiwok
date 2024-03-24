@@ -1,1 +1,1 @@
-<img src="https://count.getloli.com/get/@sushiwok?theme=rule34" alt="moe-counter" width=250/>
+<img src="https://moe-counter.glitch.me/get/@sushiwok?theme=rule34" alt="moe-counter" width=250/>
